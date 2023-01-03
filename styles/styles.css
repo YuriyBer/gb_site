@@ -4,6 +4,10 @@
     box-sizing: border-box;
 }
 
+body {
+    font-family: Roboto, sans-serif;
+}
+
 .head {
     /* background-color: #172755; */
     padding-top: 50px;
